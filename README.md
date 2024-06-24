@@ -1,2 +1,3 @@
 # Meu primeiro commit
-## Meu primeiSro merge
+## Meu primeiro merge
+### Comitando pelo VScode
